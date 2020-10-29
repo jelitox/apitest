@@ -57,7 +57,7 @@ cryptography==3.2.1
 cssselect2==0.3.0
 dask==2.30.0
 dateparser==0.7.6
-decorator==4.4.0
+decorator==4.4.2
 defusedxml==0.6.0
 devtools==0.5.1
 distributed==2.21.0
