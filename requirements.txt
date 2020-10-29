@@ -74,7 +74,7 @@ future==0.18.2
 geographiclib==1.50
 geopy==2.0.0
 googlemaps==4.4.2
-gunicorn==19.9.0
+gunicorn==20.0.4
 h11==0.9.0
 HeapDict==1.0.1
 hiredis==1.0.0
