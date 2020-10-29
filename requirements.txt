@@ -130,7 +130,7 @@ pydantic==1.7.1
 Pygments==2.7.2
 PyJWT==1.7.1
 pylibmc==1.6.1
-pyOpenSSL==18.0.0
+pyOpenSSL==19.1.0
 pyparsing==2.4.7
 Pyphen==0.9.5
 pyrsistent==0.15.4
