@@ -86,7 +86,7 @@ jdcal==1.4.1
 jedi==0.17.2
 Jinja2==2.11.2
 jmespath==0.10.0
-jsonfield==2.0.2
+jsonfield==3.1.0
 jsonpath==0.82
 jsonpath-rw==1.4.0
 jsonpath-rw-ext==1.2.0
