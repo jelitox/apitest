@@ -1,5 +1,7 @@
 import time
 
 def today(mask="%m/%d/%Y"):
-"""Return the time with mask""" 
+    """
+    This is the second line of the docstring.
+    """ 
     return time.strftime(mask)
