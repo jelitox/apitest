@@ -1,5 +1,7 @@
 import time
 
+"""This module does today mask."""
+
 
 def today(mask="%m/%d/%Y"):
     """
