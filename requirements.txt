@@ -1,4 +1,4 @@
-adal==1.2.4
+adal==1.2.5
 aioboto3==8.0.5
 aiobotocore==1.0.4
 aiocontextvars==0.2.1
