@@ -60,7 +60,7 @@ dateparser==0.7.6
 decorator==4.4.2
 defusedxml==0.6.0
 devtools==0.6.1
-distributed==2.21.0
+distributed==2.30.0
 Django==3.1.2
 django-enumfields==0.10.1
 dnspython==1.16.0
