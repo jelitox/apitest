@@ -83,7 +83,7 @@ httptools==0.1.1
 idna==2.10
 iso8601==0.1.13
 jdcal==1.4.1
-jedi==0.13.2
+jedi==0.17.2
 Jinja2==2.11.2
 jmespath==0.9.4
 jsonfield==2.0.2
