@@ -62,7 +62,7 @@ defusedxml==0.6.0
 devtools==0.6.1
 distributed==2.30.0
 Django==3.1.2
-django-enumfields==0.10.1
+django-enumfields==2.0.0
 dnspython==1.16.0
 docutils==0.15.2
 EasyProcess==0.3
