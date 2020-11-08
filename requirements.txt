@@ -66,7 +66,7 @@ django-enumfields==2.0.0
 dnspython==2.0.0
 docutils==0.16
 EasyProcess==0.3
-email-validator==1.1.1
+email-validator==1.1.2
 entrypoint2==0.2.3
 et-xmlfile==1.0.1
 fsspec==0.8.4
