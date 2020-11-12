@@ -28,7 +28,7 @@ APScheduler==3.6.3
 asgiref==3.3.1
 asn1crypto==1.4.0
 async-timeout==3.0.1
-navconfig==0.2.0
+navconfig==0.2.9
 asyncdb==1.0.0
 navigator-api==1.0.0.dev0
 asyncio==3.4.3
