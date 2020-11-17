@@ -3,7 +3,7 @@ aioboto3==8.0.5
 aiobotocore==1.1.2
 aiocontextvars==0.2.2
 aiodns==2.0.0
-aiofile==3.1.1
+aiofile==3.3.3
 aiogmaps==0.0.2
 aiohttp==3.7.2
 aiohttp-autoreload==0.0.1
@@ -39,8 +39,8 @@ attrs==20.3.0
 bcrypt==3.2.0
 beautifulsoup4==4.9.3
 bokeh==2.2.3
-boto3==1.16.15
-botocore==1.19.15
+boto3==1.16.19
+botocore==1.19.19
 brotlipy==0.7.0
 caio==0.6.3
 cairocffi==1.2.0
@@ -98,7 +98,7 @@ MarkupSafe==1.1.1
 marshmallow==3.9.1
 msal==1.6.0
 msgpack==1.0.0
-multidict==5.0.0
+multidict==5.0.2
 mypy==0.790
 mypy-extensions==0.4.3
 networkx==2.5
@@ -107,7 +107,7 @@ oauthlib==3.1.0
 objectpath==0.6.1
 Office365-REST-Python-Client==2.2.2
 openpyxl==3.0.5
-outcome==1.0.1
+outcome==1.1.0
 packaging==20.4
 pandas==1.1.4
 parso==0.8.0
@@ -145,7 +145,7 @@ pytz==2020.4
 pyunpack==0.2.2
 PyYAML==5.3.1
 redis==3.5.3
-regex==2020.11.11
+regex==2020.11.13
 Represent==1.6.0
 requests==2.25.0
 requests-oauthlib==1.3.0
@@ -167,14 +167,14 @@ telegram==0.0.1
 tinycss2==1.1.0
 toolz==0.11.1
 tornado==6.1
-tqdm==4.51.0
+tqdm==4.52.0
 twilio==6.47.0
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
 tzlocal==2.1
 ua-parser==0.10.0
 ujson==4.0.1
-urllib3==1.26.1
+urllib3==1.26.2
 user-agents==2.2.0
 uvloop==0.14.0
 valideer==0.4.2
@@ -190,6 +190,6 @@ wrapt==1.12.1
 xlrd==1.2.0
 XlsxWriter==1.3.7
 xlwt==1.3.0
-yarl==1.6.2
+yarl==1.6.3
 zict==2.0.0
 
