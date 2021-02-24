@@ -40,7 +40,7 @@ bcrypt==3.2.0
 beautifulsoup4==4.9.3
 bokeh==2.2.3
 boto3==1.17.14
-botocore==1.19.19
+botocore==1.20.14
 brotlipy==0.7.0
 caio==0.6.3
 cairocffi==1.2.0
