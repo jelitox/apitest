@@ -55,7 +55,7 @@ cloudpickle==1.6.0
 configparser==5.0.2
 cryptography==3.4.6
 cssselect2==0.4.1
-dask==2.30.0
+dask==2021.2.0
 dateparser==1.0.0
 decorator==4.4.2
 defusedxml==0.6.0
