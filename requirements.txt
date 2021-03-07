@@ -117,7 +117,7 @@ pbr==5.5.1
 pdfkit==0.6.1
 pgmpy==0.1.13
 PGPy==0.5.3
-Pillow==8.0.1
+Pillow==8.1.2
 ply==3.11
 psutil==5.7.3
 psycopg2-binary==2.8.6
