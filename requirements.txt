@@ -53,7 +53,7 @@ chardet==4.0.0
 click==7.1.2
 cloudpickle==1.6.0
 configparser==5.0.2
-cryptography==3.2.1
+cryptography==3.4.6
 cssselect2==0.4.1
 dask==2.30.0
 dateparser==1.0.0
