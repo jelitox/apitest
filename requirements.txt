@@ -29,7 +29,7 @@ asgiref==3.3.1
 asn1crypto==1.4.0
 async-timeout==3.0.1
 navconfig==0.2.17
-asyncdb==1.1.5
+asyncdb==1.2.99
 navigator-api==1.0.3.dev0
 asyncio==3.4.3
 asyncio-redis==0.16.0
