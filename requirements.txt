@@ -106,7 +106,7 @@ numpy==1.20.1
 oauthlib==3.1.0
 objectpath==0.6.1
 Office365-REST-Python-Client==2.3.1
-openpyxl==3.0.5
+openpyxl==3.0.7
 outcome==1.1.0
 packaging==20.4
 pandas==1.1.4
