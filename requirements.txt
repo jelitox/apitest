@@ -91,7 +91,7 @@ jsonpath==0.82
 jsonpath-rw==1.4.0
 jsonpath-rw-ext==1.2.0
 jsonschema==3.2.0
-LivePopularTimes==1.0
+LivePopularTimes==1.1
 locket==0.2.0
 lxml==4.6.1
 MarkupSafe==1.1.1
