@@ -98,7 +98,7 @@ MarkupSafe==1.1.1
 marshmallow==3.10.0
 msal==1.10.0
 msgpack==1.0.2
-multidict==5.0.2
+multidict==5.1.0
 mypy==0.790
 mypy-extensions==0.4.3
 networkx==2.5
