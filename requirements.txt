@@ -105,7 +105,7 @@ networkx==2.5
 numpy==1.20.1
 oauthlib==3.1.0
 objectpath==0.6.1
-Office365-REST-Python-Client==2.2.2
+Office365-REST-Python-Client==2.3.1
 openpyxl==3.0.5
 outcome==1.1.0
 packaging==20.4
