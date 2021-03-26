@@ -73,7 +73,7 @@ fsspec==0.8.7
 future==0.18.2
 geographiclib==1.50
 geopy==2.1.0
-googlemaps==4.4.2
+googlemaps==4.4.5
 gunicorn==20.0.4
 h11==0.11.0
 HeapDict==1.0.1
