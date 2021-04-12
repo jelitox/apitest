@@ -183,7 +183,7 @@ vine==5.0.0
 warp-proxy==0.1.1
 watchgod==0.6
 WeasyPrint==52.4
-webargs==6.1.1
+webargs==8.0.0
 webencodings==0.5.1
 websockets==8.1
 wrapt==1.12.1
