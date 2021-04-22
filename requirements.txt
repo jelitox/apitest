@@ -39,7 +39,7 @@ attrs==20.3.0
 bcrypt==3.2.0
 beautifulsoup4==4.9.3
 bokeh==2.3.1
-boto3==1.16.19
+boto3==1.17.55
 botocore==1.19.19
 brotlipy==0.7.0
 caio==0.6.3
