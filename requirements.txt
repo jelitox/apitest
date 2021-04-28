@@ -176,7 +176,7 @@ ua-parser==0.10.0
 ujson==4.0.2
 urllib3==1.26.4
 user-agents==2.2.0
-uvloop==0.14.0
+uvloop==0.15.2
 valideer==0.4.2
 validictory==1.1.2
 vine==5.0.0
