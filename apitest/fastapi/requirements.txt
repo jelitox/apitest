@@ -1,2 +1,2 @@
 fastapi == 0.65.1
-python-multipart
+python-multipart==0.0.5
