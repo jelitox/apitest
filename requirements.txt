@@ -15,7 +15,7 @@ aiohttp-jwt==0.6.1
 aiohttp-session==2.9.0
 aiohttp-swagger==1.0.15
 aiohttp-utils==3.1.1
-aioimaplib==0.7.18
+aioimaplib==0.9.0
 aioitertools==0.7.1
 aiojobs==0.2.2
 aiomcache==0.6.0
