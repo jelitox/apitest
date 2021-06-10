@@ -39,8 +39,8 @@ attrs==21.2.0
 bcrypt==3.2.0
 beautifulsoup4==4.9.3
 bokeh==2.3.2
-boto3==1.17.89
-botocore==1.20.89
+boto3==1.17.91
+botocore==1.20.91
 brotlipy==0.7.0
 caio==0.6.3
 cairocffi==1.2.0
@@ -69,7 +69,7 @@ EasyProcess==0.3
 email-validator==1.1.2
 entrypoint2==0.2.4
 et-xmlfile==1.1.0
-fsspec==2021.5.0
+fsspec==2021.6.0
 future==0.18.2
 geographiclib==1.50
 geopy==2.1.0
@@ -99,7 +99,7 @@ marshmallow==3.12.1
 msal==1.12.0
 msgpack==1.0.2
 multidict==5.1.0
-mypy==0.812
+mypy==0.901
 mypy-extensions==0.4.3
 networkx==2.5.1
 numpy==1.20.3
