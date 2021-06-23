@@ -3,7 +3,7 @@ aioboto3==8.3.0
 aiobotocore==1.3.1
 aiocontextvars==0.2.2
 aiodns==3.0.0
-aiofile==3.5.0
+aiofile==3.5.1
 aiogmaps==0.0.2
 aiohttp==3.7.4.post0
 aiohttp-autoreload==0.0.1
@@ -23,7 +23,7 @@ aiopg==1.2.1
 aioredis==1.3.1
 aiosocks==0.2.6
 amqp==5.0.6
-apispec==4.5.0
+apispec==4.6.0
 APScheduler==3.7.0
 asgiref==3.3.4
 asn1crypto==1.4.0
@@ -34,13 +34,13 @@ navigator-api==1.4.30
 asyncio==3.4.3
 asyncio-redis==0.16.0
 asyncpg==0.23.0
-asyncssh==2.6.0
+asyncssh==2.7.0
 attrs==21.2.0
 bcrypt==3.2.0
 beautifulsoup4==4.9.3
 bokeh==2.3.2
-boto3==1.17.93
-botocore==1.20.93
+boto3==1.17.98
+botocore==1.20.98
 brotlipy==0.7.0
 caio==0.6.3
 cairocffi==1.2.0
@@ -55,12 +55,12 @@ cloudpickle==1.6.0
 configparser==5.0.2
 cryptography==3.4.7
 cssselect2==0.4.1
-dask==2021.6.0
+dask==2021.6.1
 dateparser==1.0.0
 decorator==5.0.9
 defusedxml==0.7.1
 devtools==0.6.1
-distributed==2021.6.0
+distributed==2021.6.1
 Django==3.2.4
 django-enumfields==2.1.1
 dnspython==2.1.0
@@ -120,7 +120,7 @@ PGPy==0.5.4
 Pillow==8.2.0
 ply==3.11
 psutil==5.8.0
-psycopg2-binary==2.8.6
+psycopg2-binary==2.9.1
 pyasn1==0.4.8
 pycares==4.0.0
 pycparser==2.20
@@ -136,7 +136,7 @@ Pyphen==0.10.0
 pyrsistent==0.17.3
 pyshorteners==1.0.1
 python-dateutil==2.8.1
-python-dotenv==0.17.1
+python-dotenv==0.18.0
 python-magic==0.4.24
 python-mimeparse==1.6.0
 python-telegram-bot==13.6
@@ -152,7 +152,7 @@ requests-oauthlib==1.3.0
 rethinkdb==2.4.8
 rncryptor==3.3.0
 s3transfer==0.4.2
-scipy==1.6.3
+scipy==1.7.0
 simplejson==3.17.2
 six==1.16.0
 sockjs==0.11.0
@@ -168,7 +168,7 @@ tinycss2==1.1.0
 toolz==0.11.1
 tornado==6.1
 tqdm==4.61.1
-twilio==6.59.1
+twilio==6.60.0
 typed-ast==1.4.3
 typing-extensions==3.10.0.0
 tzlocal==2.1
