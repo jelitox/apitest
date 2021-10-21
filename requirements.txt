@@ -171,7 +171,7 @@ tqdm==4.62.3
 twilio==7.2.0
 typed-ast==1.4.3
 typing-extensions==3.10.0.2
-tzlocal==2.1
+tzlocal==4.0.1
 ua-parser==0.10.0
 ujson==4.0.2
 urllib3==1.26.6
