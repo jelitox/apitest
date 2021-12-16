@@ -174,7 +174,7 @@ typing-extensions==4.0.1
 tzlocal==4.1
 ua-parser==0.10.0
 ujson==4.3.0
-urllib3==1.26.6
+urllib3==1.26.7
 user-agents==2.2.0
 uvloop==0.15.3
 valideer==0.4.2
