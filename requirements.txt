@@ -96,7 +96,7 @@ locket==0.2.0
 lxml==4.7.1
 MarkupSafe==2.0.1
 marshmallow==3.14.1
-msal==1.12.0
+msal==1.16.0
 msgpack==1.0.2
 multidict==5.1.0
 mypy==0.910
