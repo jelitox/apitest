@@ -42,7 +42,7 @@ bokeh==2.4.2
 boto3==1.20.33
 botocore==1.23.33
 brotlipy==0.7.0
-caio==0.6.3
+caio==0.9.3
 cairocffi==1.2.0
 CairoSVG==2.5.2
 cchardet==2.1.7
