@@ -52,7 +52,7 @@ cffi==1.15.0
 chardet==4.0.0
 click==8.0.3
 cloudpickle==2.0.0
-configparser==5.0.2
+configparser==5.2.0
 cryptography==3.4.7
 cssselect2==0.4.1
 dask==2021.7.0
