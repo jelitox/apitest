@@ -131,7 +131,7 @@ Pygments==2.11.2
 PyJWT==2.3.0
 pylibmc==1.6.1
 pyOpenSSL==21.0.0
-pyparsing==2.4.7
+pyparsing==3.0.7
 Pyphen==0.11.0
 pyrsistent==0.18.0
 pyshorteners==1.0.1
