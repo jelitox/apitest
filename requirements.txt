@@ -144,7 +144,7 @@ pytool==3.16.2
 pytz==2021.3
 pyunpack==0.2.2
 PyYAML==6.0
-redis==3.5.3
+redis==4.1.1
 regex==2021.7.6
 Represent==1.6.0.post0
 requests==2.26.0
