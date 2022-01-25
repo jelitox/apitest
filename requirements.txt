@@ -34,7 +34,7 @@ navigator-api==1.9.35
 asyncio==3.4.3
 asyncio-redis==0.16.0
 asyncpg==0.25.0
-asyncssh==2.7.0
+asyncssh==2.9.0
 attrs==21.2.0
 bcrypt==3.2.0
 beautifulsoup4==4.9.3
