@@ -140,7 +140,7 @@ python-dotenv==0.19.2
 python-magic==0.4.24
 python-mimeparse==1.6.0
 python-telegram-bot==13.10
-pytool==3.16.1
+pytool==3.16.2
 pytz==2021.1
 pyunpack==0.2.2
 PyYAML==5.4.1
