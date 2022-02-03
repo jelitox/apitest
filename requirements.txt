@@ -103,7 +103,7 @@ mypy==0.931
 mypy-extensions==0.4.3
 networkx==2.6.3
 numpy==1.22.1
-oauthlib==3.1.1
+oauthlib==3.2.0
 objectpath==0.6.1
 Office365-REST-Python-Client==2.3.5
 openpyxl==3.0.7
