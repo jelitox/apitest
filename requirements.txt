@@ -136,7 +136,7 @@ Pyphen==0.12.0
 pyrsistent==0.18.1
 pyshorteners==1.0.1
 python-dateutil==2.8.2
-python-dotenv==0.19.2
+python-dotenv==0.20.0
 python-magic==0.4.25
 python-mimeparse==1.6.0
 python-telegram-bot==13.11
