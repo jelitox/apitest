@@ -167,7 +167,7 @@ telegram==0.0.1
 tinycss2==1.1.1
 toolz==0.11.2
 tornado==6.1
-tqdm==4.62.3
+tqdm==4.64.0
 twilio==7.6.0
 typed-ast==1.5.2
 typing-extensions==4.0.1
