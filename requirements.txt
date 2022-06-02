@@ -141,7 +141,7 @@ python-magic==0.4.26
 python-mimeparse==1.6.0
 python-telegram-bot==13.12
 pytool==3.16.2
-pytz==2021.3
+pytz==2022.1
 pyunpack==0.2.2
 PyYAML==6.0
 redis==4.1.3
