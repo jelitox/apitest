@@ -109,7 +109,7 @@ Office365-REST-Python-Client==2.3.12
 openpyxl==3.0.10
 outcome==1.1.0
 packaging==21.3
-pandas==1.4.0
+pandas==1.4.2
 parso==0.8.3
 partd==1.2.0
 patool==1.12
