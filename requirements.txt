@@ -33,7 +33,7 @@ asyncdb==2.3.2
 navigator-api==2.6.26
 asyncio==3.4.3
 asyncio-redis==0.16.0
-asyncpg==0.25.0
+asyncpg==0.27.0
 asyncssh==2.9.0
 attrs==21.4.0
 bcrypt==3.2.0
