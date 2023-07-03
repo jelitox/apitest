@@ -63,7 +63,7 @@ devtools==0.11.0
 distributed==2023.6.1
 Django==4.2.3
 django-enumfields==2.1.1
-dnspython==2.2.0
+dnspython==2.3.0
 docutils==0.18.1
 EasyProcess==1.1
 email-validator==1.1.3
