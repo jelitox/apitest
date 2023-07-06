@@ -79,7 +79,7 @@ h11==0.14.0
 HeapDict==1.0.1
 hiredis==2.2.3
 html5lib==1.1
-httptools==0.3.0
+httptools==0.5.0
 idna==3.3
 iso8601==1.0.2
 jdcal==1.4.1
