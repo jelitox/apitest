@@ -128,7 +128,7 @@ pycrypto==2.6.1
 pycryptodome==3.18.0
 pydantic==2.0.3
 Pygments==2.15.1
-PyJWT==2.3.0
+PyJWT==2.7.0
 pylibmc==1.6.1
 pyOpenSSL==22.0.0
 pyparsing==3.0.7
