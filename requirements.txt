@@ -70,7 +70,7 @@ email-validator==2.0.0.post2
 entrypoint2==1.1
 et-xmlfile==1.1.0
 fsspec==2023.6.0
-future==0.18.2
+future==0.18.3
 geographiclib==1.50
 geopy==2.2.0
 googlemaps==4.6.0
