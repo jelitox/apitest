@@ -67,7 +67,7 @@ dnspython==2.4.0
 docutils==0.20.1
 EasyProcess==1.1
 email-validator==2.0.0.post2
-entrypoint2==1.0
+entrypoint2==1.1
 et-xmlfile==1.1.0
 fsspec==2022.1.0
 future==0.18.2
