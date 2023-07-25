@@ -122,7 +122,7 @@ ply==3.11
 psutil==5.9.5
 psycopg2-binary==2.9.6
 pyasn1==0.5.0
-pycares==4.1.2
+pycares==4.3.0
 pycparser==2.21
 pycrypto==2.6.1
 pycryptodome==3.14.1
