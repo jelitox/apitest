@@ -85,7 +85,7 @@ iso8601==2.0.0
 jdcal==1.4.1
 jedi==0.18.2
 Jinja2==3.1.2
-jmespath==0.10.0
+jmespath==1.0.1
 jsonfield==3.1.0
 jsonpath==0.82
 jsonpath-rw==1.4.0
