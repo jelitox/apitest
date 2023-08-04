@@ -133,7 +133,7 @@ pylibmc==1.6.3
 pyOpenSSL==23.2.0
 pyparsing==3.1.1
 Pyphen==0.14.0
-pyrsistent==0.18.1
+pyrsistent==0.19.3
 pyshorteners==1.0.1
 python-dateutil==2.8.2
 python-dotenv==0.19.2
