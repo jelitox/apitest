@@ -61,7 +61,7 @@ decorator==5.1.1
 defusedxml==0.7.1
 devtools==0.8.0
 distributed==2022.1.1
-Django==4.0.2
+Django==4.2.4
 django-enumfields==2.1.1
 dnspython==2.2.0
 docutils==0.18.1
