@@ -102,7 +102,7 @@ multidict==6.0.4
 mypy==1.4.1
 mypy-extensions==1.0.0
 networkx==3.1
-numpy==1.22.2
+numpy==1.25.2
 oauthlib==3.2.0
 objectpath==0.6.1
 Office365-REST-Python-Client==2.3.10
