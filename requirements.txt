@@ -64,7 +64,7 @@ distributed==2023.8.0
 Django==4.2.4
 django-enumfields==2.1.1
 dnspython==2.4.1
-docutils==0.18.1
+docutils==0.20.1
 EasyProcess==1.1
 email-validator==1.1.3
 entrypoint2==1.0
