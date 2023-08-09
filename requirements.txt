@@ -1,6 +1,6 @@
 adal==1.2.7
 aioboto3==11.2.0
-aiobotocore==2.1.1
+aiobotocore==2.5.4
 aiocontextvars==0.2.2
 aiodns==3.0.0
 aiofile==3.7.4
