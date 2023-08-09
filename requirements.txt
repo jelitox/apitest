@@ -158,7 +158,7 @@ six==1.16.0
 sockjs==0.11.0
 sortedcontainers==2.4.0
 soupsieve==2.4.1
-SQLAlchemy==1.4.31
+SQLAlchemy==2.0.19
 sqlalchemy-aio==0.16.0
 sqlparse==0.4.2
 tabulate==0.8.9
