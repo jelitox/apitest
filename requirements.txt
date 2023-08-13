@@ -27,7 +27,7 @@ apispec==6.3.0
 APScheduler==3.10.2
 asgiref==3.7.2
 asn1crypto==1.5.1
-async-timeout==4.0.2
+async-timeout==4.0.3
 navconfig==0.4.3
 asyncdb==1.7.28
 navigator-api==1.9.35
