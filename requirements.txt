@@ -5,7 +5,7 @@ aiocontextvars==0.2.2
 aiodns==3.0.0
 aiofile==3.7.4
 aiogmaps==0.0.2
-aiohttp==3.8.1
+aiohttp==3.8.5
 aiohttp-autoreload==0.0.1
 aiohttp-cors==0.7.0
 aiohttp-debugtoolbar==0.6.0
