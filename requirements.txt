@@ -182,7 +182,7 @@ validictory==1.1.2
 vine==5.0.0
 warp-proxy==0.1.1
 watchgod==0.8.2
-WeasyPrint==54.1
+WeasyPrint==59.0
 webargs==8.1.0
 webencodings==0.5.1
 websockets==10.1
