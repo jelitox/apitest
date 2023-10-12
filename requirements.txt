@@ -80,7 +80,7 @@ HeapDict==1.0.1
 hiredis==2.2.3
 html5lib==1.1
 httptools==0.6.0
-idna==3.3
+idna==3.4
 iso8601==1.0.2
 jdcal==1.4.1
 jedi==0.18.1
