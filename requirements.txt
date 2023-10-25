@@ -22,7 +22,7 @@ aiomcache==0.8.1
 aiopg==1.4.0
 aioredis==2.0.1
 aiosocks==0.2.6
-amqp==5.0.9
+amqp==5.1.1
 apispec==5.1.1
 APScheduler==3.8.1
 asgiref==3.5.0
