@@ -185,7 +185,7 @@ watchgod==0.8.2
 WeasyPrint==60.2
 webargs==8.3.0
 webencodings==0.5.1
-websockets==10.1
+websockets==12.0
 wrapt==1.13.3
 xlrd==2.0.1
 XlsxWriter==3.0.2
