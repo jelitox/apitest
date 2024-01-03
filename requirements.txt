@@ -30,7 +30,7 @@ asn1crypto==1.5.1
 async-timeout==4.0.3
 navconfig==1.5.3
 asyncdb==2.6.8
-navigator-api==1.9.35
+navigator-api==2.8.5
 asyncio==3.4.3
 asyncio-redis==0.16.0
 asyncpg==0.25.0
