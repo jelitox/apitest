@@ -115,7 +115,7 @@ partd==1.4.1
 patool==2.1.0
 pbr==6.0.0
 pdfkit==1.0.0
-pgmpy==0.1.17
+pgmpy==0.1.24
 PGPy==0.5.4
 Pillow==9.0.1
 ply==3.11
