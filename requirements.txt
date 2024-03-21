@@ -152,7 +152,7 @@ requests-oauthlib==1.4.0
 rethinkdb==2.4.10.post1
 rncryptor==3.3.0
 s3transfer==0.10.1
-scipy==1.8.0
+scipy==1.12.0
 simplejson==3.17.6
 six==1.16.0
 sockjs==0.11.0
