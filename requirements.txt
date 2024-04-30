@@ -147,7 +147,7 @@ PyYAML==6.0.1
 redis==5.0.4
 regex==2024.4.28
 Represent==2.1
-requests==2.27.1
+requests==2.31.0
 requests-oauthlib==1.3.1
 rethinkdb==2.4.8
 rncryptor==3.3.0
