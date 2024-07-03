@@ -123,7 +123,7 @@ psutil==6.0.0
 psycopg2-binary==2.9.9
 pyasn1==0.6.0
 pycares==4.4.0
-pycparser==2.21
+pycparser==2.22
 pycrypto==2.6.1
 pycryptodome==3.14.1
 pydantic==1.9.0
