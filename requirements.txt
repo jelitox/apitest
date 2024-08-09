@@ -3,7 +3,7 @@ aioboto3==13.1.1
 aiobotocore==2.13.1
 aiocontextvars==0.2.2
 aiodns==3.2.0
-aiofile==3.7.4
+aiofile==3.8.8
 aiogmaps==0.0.2
 aiohttp==3.10.2
 aiohttp-autoreload==0.0.1
