@@ -155,7 +155,7 @@ s3transfer==0.10.2
 scipy==1.14.0
 simplejson==3.19.3
 six==1.16.0
-sockjs==0.11.0
+sockjs==0.13.0
 sortedcontainers==2.4.0
 soupsieve==2.3.1
 SQLAlchemy==1.4.31
