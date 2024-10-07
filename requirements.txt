@@ -112,7 +112,7 @@ packaging==24.1
 pandas==2.2.3
 parso==0.8.4
 partd==1.4.2
-patool==1.12
+patool==3.0.1
 pbr==5.8.1
 pdfkit==1.0.0
 pgmpy==0.1.17
