@@ -119,7 +119,7 @@ pgmpy==1.0.0
 PGPy==0.6.0
 Pillow==11.2.1
 ply==3.11
-psutil==5.9.0
+psutil==7.0.0
 psycopg2-binary==2.9.3
 pyasn1==0.4.8
 pycares==4.1.2
