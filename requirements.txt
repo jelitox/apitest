@@ -7,7 +7,7 @@ aiofile==3.9.0
 aiogmaps==0.0.2
 aiohttp==3.11.16
 aiohttp-autoreload==0.0.1
-aiohttp-cors==0.7.0
+aiohttp-cors==0.8.1
 aiohttp-debugtoolbar==0.6.0
 aiohttp-jinja2==1.5
 aiohttp-jrpc==0.1.0
