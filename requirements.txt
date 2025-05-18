@@ -132,7 +132,7 @@ PyJWT==2.10.1
 pylibmc==1.6.3
 pyOpenSSL==25.1.0
 pyparsing==3.2.3
-Pyphen==0.12.0
+Pyphen==0.17.2
 pyrsistent==0.18.1
 pyshorteners==1.0.1
 python-dateutil==2.8.2
