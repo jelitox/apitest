@@ -99,7 +99,7 @@ marshmallow==4.0.1
 msal==1.33.0
 msgpack==1.1.1
 multidict==6.6.4
-mypy==0.931
+mypy==1.17.1
 mypy-extensions==0.4.3
 networkx==2.6.3
 numpy==1.22.2
