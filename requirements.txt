@@ -170,7 +170,7 @@ tornado==6.5.5
 tqdm==4.67.3
 twilio==9.10.4
 typed-ast==1.5.5
-typing-extensions==4.0.1
+typing-extensions==4.15.0
 tzlocal==4.1
 ua-parser==0.10.0
 ujson==5.1.0
