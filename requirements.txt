@@ -165,7 +165,7 @@ tabulate==0.10.0
 tblib==3.2.2
 telegram==0.0.1
 tinycss2==1.5.1
-toolz==0.11.2
+toolz==1.1.0
 tornado==6.5.7
 tqdm==4.62.3
 twilio==7.6.0
