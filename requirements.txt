@@ -25,7 +25,7 @@ aiosocks==0.2.6
 amqp==5.3.1
 apispec==6.10.0
 APScheduler==3.11.3
-asgiref==3.5.0
+asgiref==3.12.1
 asn1crypto==1.4.0
 async-timeout==4.0.2
 navconfig==0.4.3
