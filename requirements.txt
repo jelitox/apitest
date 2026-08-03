@@ -113,7 +113,7 @@ pandas==3.0.5
 parso==0.8.7
 partd==1.4.2
 patool==4.0.5
-pbr==5.8.1
+pbr==7.0.3
 pdfkit==1.0.0
 pgmpy==0.1.17
 PGPy==0.5.4
