@@ -164,7 +164,7 @@ sqlparse==0.6.0
 tabulate==0.10.0
 tblib==3.2.2
 telegram==0.0.1
-tinycss2==1.1.1
+tinycss2==1.5.1
 toolz==0.11.2
 tornado==6.5.8
 tqdm==4.62.3
