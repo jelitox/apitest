@@ -94,7 +94,7 @@ jsonschema==4.26.0
 LivePopularTimes==1.3
 locket==1.0.0
 lxml==6.1.3
-MarkupSafe==2.0.1
+MarkupSafe==3.0.3
 marshmallow==3.14.1
 msal==1.16.0
 msgpack==1.0.3
