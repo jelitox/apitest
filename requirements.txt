@@ -10,7 +10,7 @@ aiohttp-autoreload==0.0.1
 aiohttp-cors==0.8.1
 aiohttp-debugtoolbar==0.6.1
 aiohttp-jinja2==1.6
-aiohttp-jrpc==0.1.0
+aiohttp-jrpc==0.2.0
 aiohttp-jwt==0.6.1
 aiohttp-session==2.11.0
 aiohttp-swagger==1.0.15
